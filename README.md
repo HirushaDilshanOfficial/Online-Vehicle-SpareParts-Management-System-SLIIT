@@ -29,10 +29,13 @@ A comprehensive web application designed to manage the spare parts of vehicles e
 - **Database**: SQL
 
 ## Screenshots 📸
-- Admin Dashboard
-- Manager Dashboard
-- Supplier Dashboard
-- User Profile
+<img width="1470" alt="Screenshot 2025-06-09 at 13 07 44" src="https://github.com/user-attachments/assets/afee00be-5ef0-4a98-8cbc-961020f5dafb" />
+<img width="1470" alt="Screenshot 2025-06-09 at 13 06 13" src="https://github.com/user-attachments/assets/ab1dd446-c7d3-47c8-9dd9-85e494f3efa7" />
+<img width="1470" alt="Screenshot 2025-06-09 at 13 06 27" src="https://github.com/user-attachments/assets/41804422-6a6e-489c-ba4a-a38696283fd9" />
+<img width="1470" alt="Screenshot 2025-06-09 at 13 06 33" src="https://github.com/user-attachments/assets/0772a67b-05af-4452-b2a1-f2e5dc2be2b6" />
+<img width="1470" alt="Screenshot 2025-06-09 at 13 06 42" src="https://github.com/user-attachments/assets/5d892f6b-04f2-42fa-959a-e31e759c882b" />
+<img width="1470" alt="Screenshot 2025-06-09 at 13 07 54" src="https://github.com/user-attachments/assets/cd8ee54d-b11d-4b60-a2ef-94d40d1e687e" />
+
 
 ## Installation 🚀
 
