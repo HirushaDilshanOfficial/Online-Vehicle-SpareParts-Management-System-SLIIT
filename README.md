@@ -1,36 +1,40 @@
-# 🚗 Online Vehicle SpareParts Management System
+# Online Vehicle SpareParts Management System 🚗🛠️
 
-Welcome to the **Online Vehicle SpareParts Management System**! This system is designed to streamline the management of vehicle spare parts for businesses. It features user-friendly dashboards for different roles like **Admin**, **Manager**, and **Supplier**. Built with **HTML**, **Tailwind CSS**, **JavaScript**, **Java**, and **SQL**, this platform helps manage spare parts, users, orders, and reports efficiently.
+A comprehensive web application designed to manage the spare parts of vehicles efficiently. The system includes multiple dashboards for different roles (Admin, Manager, Supplier, and User), allowing each user type to manage their tasks and data seamlessly.
 
----
+## Features ✨
 
-## 🚀 Features
+- **Admin Dashboard**:
+    - Add, update, or delete users, managers, suppliers, parts, and sub-admins.
+    - Manage all system operations and user access.
 
-### Admin Dashboard
-- **Add, Update, Delete Users**: Full control over users, managers, suppliers, parts, and sub-admins.
-- **Manage Roles**: Assign or modify roles for users, including admins, managers, and suppliers.
+- **Manager Dashboard**:
+    - Check sales data and generate reports.
+    - Add, edit, or delete parts.
+    - Place and manage item orders.
+  
+- **Supplier Dashboard**:
+    - Add spare parts to the inventory.
+    - Check pending orders.
+    - Send price estimates for parts.
 
-### Manager Dashboard
-- **View & Manage Sales**: Track sales data and generate detailed reports.
-- **Inventory Control**: Add, edit, or delete spare parts from the inventory.
-- **Send Item Orders**: Place orders for additional parts when stock is low.
+- **User Profile**:
+    - Users can manage their personal profiles.
+    - View available spare parts and place orders.
 
-### Supplier Dashboard
-- **Add Spare Parts**: Suppliers can list available parts and manage their stock.
-- **Order Management**: View orders and send estimates for pending requests.
-- **Check Orders**: Suppliers can keep track of parts ordered by managers.
+## Tech Stack 🛠️
+- **Frontend**: HTML, Tailwind CSS, JavaScript
+- **Backend**: Java
+- **Database**: SQL
 
----
+## Screenshots 📸
+- Admin Dashboard
+- Manager Dashboard
+- Supplier Dashboard
+- User Profile
 
-## 🔧 Tech Stack
-- **Frontend**: 
-  - HTML
-  - Tailwind CSS
-  - JavaScript
-- **Backend**: 
-  - Java
-- **Database**: 
-  - SQL
+## Installation 🚀
 
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Online-Vehicle-SpareParts-Management-System.git
