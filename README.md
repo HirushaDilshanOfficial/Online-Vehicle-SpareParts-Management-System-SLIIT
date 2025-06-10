@@ -41,4 +41,13 @@ A comprehensive web application designed to manage the spare parts of vehicles e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Online-Vehicle-SpareParts-Management-System.git](https://github.com/HirushaDilshanOfficial/Online-Vehicle-SpareParts-Management-System-SLIIT.git
+   git clone https://github.com/HirushaDilshanOfficial/Online-Vehicle-SpareParts-Management-System-SLIIT.git
+
+
+   📧 Contact
+
+Your Name - Hirusha Dilshan - hirushadilshangeneral@gmail.com
+
+Project Link: https://github.com/HirushaDilshanOfficial/Online-Vehicle-SpareParts-Management-System-SLIIT.git
+
+
