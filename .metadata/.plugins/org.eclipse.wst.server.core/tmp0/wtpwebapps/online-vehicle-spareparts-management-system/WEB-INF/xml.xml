@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+
+
+     <servlet>
+	   <servlet-name>createAdminServlet</servlet-name>
+	   <servlet-class>com.spareparts.createAdminServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>createAdminServlet</servlet-name>
+	   <url-pattern>/createAdminServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	   <servlet-name>getAllAdminServlet</servlet-name>
+	   <servlet-class>com.spareparts.getAllAdminServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>getAllAdminServlet</servlet-name>
+	   <url-pattern>/getAllAdminServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet>
+	   <servlet-name>updateAdminServlet</servlet-name>
+	   <servlet-class>com.spareparts.updateAdminServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>updateAdminServlet</servlet-name>
+	   <url-pattern>/updateAdminServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet>
+	   <servlet-name>adminDeleteServlet</servlet-name>
+	   <servlet-class>com.spareparts.adminDeleteServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>adminDeleteServlet</servlet-name>
+	   <url-pattern>/adminDeleteServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+	   <servlet-name>LoginServlet</servlet-name>
+	   <servlet-class>com.spareparts.LoginServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>LoginServlet</servlet-name>
+	   <url-pattern>/LoginServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	
+	<!-- Manager -->
+	<servlet>
+	   <servlet-name>createManagerServlet</servlet-name>
+	   <servlet-class>com.spareparts.createManagerServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>createManagerServlet</servlet-name>
+	   <url-pattern>/createManagerServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	   <servlet-name>getAllManagerServlet</servlet-name>
+	   <servlet-class>com.spareparts.getAllManagerServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>getAllManagerServlet</servlet-name>
+	   <url-pattern>/getAllManagerServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	    <servlet-name>updateManagerServlet</servlet-name>
+	    <servlet-class>com.spareparts.updateManagerServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	    <servlet-name>updateManagerServlet</servlet-name>
+	    <url-pattern>/updateManagerServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	   <servlet-name>managerDeleteServlet</servlet-name>
+	   <servlet-class>com.spareparts.managerDeleteServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>managerDeleteServlet</servlet-name>
+	   <url-pattern>/managerDeleteServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	 
+	<!-- Parts -->
+	<servlet>
+	   <servlet-name>CreatePartsServlet</servlet-name>
+	   <servlet-class>com.spareparts.CreatePartsServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>CreatePartsServlet</servlet-name>
+	   <url-pattern>/CreatePartsServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	   <servlet-name>updatePartsServlet</servlet-name>
+	   <servlet-class>com.spareparts.updatePartsServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>updatePartsServlet</servlet-name>
+	   <url-pattern>/updatePartsServlet</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+	   <servlet-name>partsDeleteServlet</servlet-name>
+	   <servlet-class>com.spareparts.partsDeleteServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>partsDeleteServlet</servlet-name>
+	   <url-pattern>/partsDeleteServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<!-- Supplier -->
+	
+<servlet>
+	   <servlet-name>createSupplierServlet</servlet-name>
+	   <servlet-class>com.spareparts.createSupplierServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>createSupplierServlet</servlet-name>
+	   <url-pattern>/createSupplierServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	   <servlet-name>getAllSupplierServlet</servlet-name>
+	   <servlet-class>com.spareparts.getAllSupplierServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	   <servlet-name>getAllSupplierServlet</servlet-name>
+	   <url-pattern>/getAllSupplierServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+	    <servlet-name>updateSupplierServlet</servlet-name>
+	    <servlet-class>com.spareparts.updateSupplierServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	    <servlet-name>updateSupplierServlet</servlet-name>
+	    <url-pattern>/updateSupplierServlet</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+    <servlet-name>supplierDeleteServlet</servlet-name>
+    <servlet-class>com.spareparts.supplierDeleteServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>supplierDeleteServlet</servlet-name>
+    <url-pattern>/supplierDeleteServlet</url-pattern>
+</servlet-mapping>
+	
+	
+
+
+</web-app>

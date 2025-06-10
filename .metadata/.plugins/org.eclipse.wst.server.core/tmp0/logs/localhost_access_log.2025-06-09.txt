@@ -1,0 +1,16 @@
+127.0.0.1 - - [09/Jun/2025:13:02:51 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:02:52 +0530] "GET /online-vehicle-spareparts-management-system/AdminLogin.jsp HTTP/1.1" 200 3459
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:02:52 +0530] "GET /online-vehicle-spareparts-management-system/Assets/icon.png HTTP/1.1" 200 28352
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:23 +0530] "POST /online-vehicle-spareparts-management-system/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:23 +0530] "GET /online-vehicle-spareparts-management-system/H_AdminDashboard.jsp HTTP/1.1" 200 3980
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:29 +0530] "GET /online-vehicle-spareparts-management-system/H_ManageUser.jsp HTTP/1.1" 200 3962
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:34 +0530] "GET /online-vehicle-spareparts-management-system/getAllAdminServlet?page=admin HTTP/1.1" 200 13188
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:37 +0530] "GET /online-vehicle-spareparts-management-system/H_ManageUser.jsp HTTP/1.1" 200 3962
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:38 +0530] "GET /online-vehicle-spareparts-management-system/getAllManagerServlet?page=manager HTTP/1.1" 200 11882
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:44 +0530] "GET /online-vehicle-spareparts-management-system/H_CreateManager.jsp HTTP/1.1" 200 5389
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:44 +0530] "GET /online-vehicle-spareparts-management-system/css/H_CreateAdmin.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:48 +0530] "GET /online-vehicle-spareparts-management-system/getAllPartsServlet HTTP/1.1" 200 12078
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:53 +0530] "GET /online-vehicle-spareparts-management-system/logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:06:53 +0530] "GET /online-vehicle-spareparts-management-system/AdminLogin.jsp HTTP/1.1" 200 3459
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:07:06 +0530] "GET /online-vehicle-spareparts-management-system/index.jsp HTTP/1.1" 200 25431
+0:0:0:0:0:0:0:1 - - [09/Jun/2025:13:07:06 +0530] "GET /favicon.ico HTTP/1.1" 404 763
